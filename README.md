@@ -84,7 +84,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/你的用户名/GD-GS.git
+git clone https://github.com/Argon314/GD-GS.git
 cd GD-GS
 
 # Create conda environment
