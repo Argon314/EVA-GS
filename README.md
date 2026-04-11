@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Python-3.8%2B-green?style=flat-square"/>
 </p>
 
