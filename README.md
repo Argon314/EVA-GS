@@ -78,13 +78,15 @@
 
 ## Installation
 
+
+
 ### Requirements
 
 - Python 3.8+
 - CUDA 11.7+
 - NVIDIA GPU (12GB+ recommended)
 
-### Steps
+### Dependencies
 
 ```bash
 # Clone the repository
@@ -101,5 +103,3 @@ pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
 # Install dependencies
 pip install -r requirements.txt
 
-# Download pretrained Depth Anything V2 weights (required for PCGR)
-# Place the model weights under ./pretrained/depth_anything_v2/
