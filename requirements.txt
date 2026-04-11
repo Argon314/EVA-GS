@@ -1,0 +1,10 @@
+torch>=2.0.0
+torchvision
+numpy
+scipy
+plyfile
+opencv-python
+tqdm
+pillow
+matplotlib
+tensorboard
