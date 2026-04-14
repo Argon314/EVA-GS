@@ -1,4 +1,4 @@
-# Eliminating Visual Artifacts in 3D Gaussian Splatting for High-Fidelity Novel View Displays
+# 
 
 <p align="center">
   <img src="assets/teaser.png" alt="EVA-GS Teaser" width="90%"/>
