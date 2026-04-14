@@ -1,13 +1,13 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="gdgs",
+    name="evags",
     version="1.0.0",
     author="Wentao Chen et al.",
-    description="Geometry-Guided and Depth-Adaptive 3D Gaussian Splatting",
+    description="Eliminating Visual Artifacts in 3D Gaussian Splatting for High-Fidelity Novel View Displays",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/Argon314/GD-GS",
+    url="https://github.com/Argon314/EVA-GS",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
