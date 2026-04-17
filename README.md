@@ -1,7 +1,7 @@
 # 
 
 <p align="center">
-  <img src="assets/teaser.png" alt="EVA-GS Teaser" width="90%"/>
+  <img src="assets/teaser.png" alt="GD-GS Teaser" width="90%"/>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## 📌 News
 
-- **[2026.04]** Paper submitted to *DISPLAYS* for review.
+- **[2026.04]** Paper submitted to *Virtual Reality* for review.
 
 ---
 
@@ -60,12 +60,12 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/Argon314/EVA-GS.git
-cd EVA-GS
+git clone https://github.com/Argon314/GD-GS.git
+cd GD-GS
 
 # Create conda environment
-conda create -n evags python=3.9
-conda activate evags
+conda create -n gdgs python=3.9
+conda activate gdgs
 
 # Install PyTorch
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
